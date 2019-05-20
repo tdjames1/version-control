@@ -60,16 +60,13 @@ Create a free account on GitHub:
 [https://github.com/join](https://github.com/join)
 
 ***If you have an academic email account you should use it here.***
-GitHub users can create an unlimited number of free, public
-repositories but only a limited number of private
-repositories. However, academic users can request access to an
-unlimited number of free private repositories.
 
-**Optional**
+GitHub users can create an unlimited number of public and public
+repositories but some features for private repositories are
+restricted. Academic users can sign up here for access to GitHub Pro
+features here:
 
-If you are an academic user, sign up for free private repositories here:
-
-[https://education.github.com/discount_requests/new](https://education.github.com/discount_requests/new)
+[https://education.github.com](https://education.github.com)
 
 ***This requires your account to be associated with an academic email
 address.***
