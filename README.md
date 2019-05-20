@@ -9,23 +9,25 @@ You can choose to follow either the tutorial on [Using git on the
 command line](#command-line-git) or [Using git through
 RStudio](#git-rstudio).
 
-* [Preliminaries](./prelim.md) Make sure that you have what you need to
-get started
+### Preliminaries
 
-* **Using git on the command line** {#command-line-git}
-    - [Getting started](./get_started.md) Start using git through a command line interface
-    - [Working with version control](./version_control.md) Working on your project in the version control framework
-    - [Connecting to a remote repository](./remote.md) Using GitHub as remote storage for your project
-    - [Subsequent workflow](./workflow.md) Making updates to your project
-    - [When things go wrong](./when-things-go-wrong.md) A very quick intro for coping when things go wrong when you're using git
-    - [Summary](./summary.md) What we've learned and further steps
+[Make sure that you have what you need to get started](./prelim.md)
 
-* **Using git through RStudio** {#git-rstudio}
-    * [Setting up a version controlled project](./rstudio_setup.md) Setting up a git project in RStudio
-    * [Getting started with version control](./rstudio_vc.md) Setting up and using version control in RStudio
-    * [Setting up a remote repository](./rstudio_remote.md) Using GitHub as remote storage for your project
-    * [Subsequent workflow](./rstudio_updates.md) Making further changes to your project
-    * [Summary](./rstudio_summary.md) What we've learned and further steps
+### Using git on the command line {#command-line-git}
+
+* [Getting started](./get_started.md) Start using git through a command line interface
+* [Working with version control](./version_control.md) Working on your project in the version control framework
+* [Connecting to a remote repository](./remote.md) Using GitHub as remote storage for your project
+* [Subsequent workflow](./workflow.md) Making updates to your project
+* [When things go wrong](./when-things-go-wrong.md) A very quick intro for coping when things go wrong when you're using git
+* [Summary](./summary.md) What we've learned and further steps
+
+### Using git through RStudio {#git-rstudio}
+* [Setting up a version controlled project](./rstudio_setup.md) Setting up a git project in RStudio
+* [Getting started with version control](./rstudio_vc.md) Setting up and using version control in RStudio
+* [Setting up a remote repository](./rstudio_remote.md) Using GitHub as remote storage for your project
+* [Subsequent workflow](./rstudio_updates.md) Making further changes to your project
+* [Summary](./rstudio_summary.md) What we've learned and further steps
 
 ### Citations
 
