@@ -18,3 +18,4 @@ is a lot more you can learn if you wish. For further help on using git
 with RStudio:
 
 - [Using Version Control with RStudio](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/)
