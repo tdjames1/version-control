@@ -34,27 +34,27 @@ If that doesn't work, this question has been asked a million times on
 stack exchange so Google is your friend.
 
 
-### If you broke everything and need to go back to a previous version
+<!-- ### If you broke everything and need to go back to a previous version -->
 
-First use:
+<!-- First use: -->
 
-`git reflog`
+<!-- `git reflog` -->
 
-You will see a list of everything you've done in git. Each one has an
-index indicated by `HEAD@{index}`. You need to find the one before you
-broke everything and then use:
+<!-- You will see a list of everything you've done in git. Each one has an -->
+<!-- index indicated by `HEAD@{index}`. You need to find the one before you -->
+<!-- broke everything and then use: -->
 
-`git reset HEAD@{index}`
+<!-- `git reset HEAD@{index}` -->
 
-Also known as the magical time machine function!
+<!-- Also known as the magical time machine function! -->
 
-**Warning: if you've already pushed your changes to the remote
-repository then using `git reset` in this way will cause problems when
-you try to push again.** Briefly, git tries to discourage you to
-change a remote's version history because doing so can be problematic
-if you are working collaboratively.  There are some tips about how to
-proceed in
-[this StackOverflow answer](http://stackoverflow.com/questions/5816688/resetting-remote-to-a-certain-commit#5816761).
+<!-- **Warning: if you've already pushed your changes to the remote -->
+<!-- repository then using `git reset` in this way will cause problems when -->
+<!-- you try to push again.** Briefly, git tries to discourage you to -->
+<!-- change a remote's version history because doing so can be problematic -->
+<!-- if you are working collaboratively.  There are some tips about how to -->
+<!-- proceed in -->
+<!-- [this StackOverflow answer](http://stackoverflow.com/questions/5816688/resetting-remote-to-a-certain-commit#5816761). -->
 
 You're likely to come across other issues when using git. Have a look at
 [oh shit git!](http://ohshitgit.com/) for how to fix some other common
